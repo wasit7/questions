@@ -1,9 +1,9 @@
-CS655 Query Assignment
+## CS655 Query Assignment
 
------------------------------------
-submit to: wasit_l@sci.tu.ac.th
+
+* submit to: wasit_l@sci.tu.ac.th
 	write your student name and ID clearly before send the email
-submit before: 23:00 27th April 2018
+* submit before: 23:00 27th April 2018
 -----------------------------------
 
 Write python scripts to answer the following questions:
